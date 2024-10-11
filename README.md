@@ -1,2 +1,2 @@
-# School-projects
-Repository for old school projects and coursework (to be updated)
+# Old projects
+Repository for old university projects and coursework (to be updated)
